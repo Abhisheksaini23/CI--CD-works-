@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/USERNAME/REPO_NAME.git'
+                git 'https://github.com/Abhisheksaini23/CI--CD-works-.git'   
             }
         }
 
